@@ -2,9 +2,9 @@
 
 **`Data Science Student (BI Analyst/Developer/Writer)`**
 
-I'm a data science student at Faculty of Applied Science Ibn Zohr, passionate about solving real-world problems through data engineering, machine learning, and thoughtful writing. My projects range from building personalized recommendation systems to exploring the depths of human intelligence and creativity.
+I'm a data science student at Faculty of Applied Science Ibn Zohr, dedicated to solving real-world problems through data engineering, machine learning, and thoughtful writing. My projects range from building personalized recommendation systems to exploring the depths of human intelligence and creativity.
 
-All of my coding projects are built with intention - from initial ideation and planning to the final implementation. I believe in creating solutions that not only work technically but also tell a story. When I'm not coding, I'm writing about the intersection of technology, philosophy, and human nature.
+All of my coding projects are built with intention, from initial ideation and planning to the final implementation. I believe in creating solutions that not only work technically but also tell a story. When I'm not coding, I'm writing about the intersection of technology, philosophy, and human nature, or I'm playing chess on Lichess.
 
 Check out my latest thoughts and technical insights: **[Articles](https://yerradouani.me/articles)**
 
