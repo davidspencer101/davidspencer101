@@ -112,7 +112,7 @@ Check out my latest thoughts and technical insights: **[Articles](https://yerrad
 
 ### 📊 Stats
 
-![Yassine's GitHub stats](https://github-readme-stats.vercel.app/api?username=yerradouani&show_icons=true&theme=gruvbox)
+![Yassine's GitHub stats](https://github-readme-stats.vercel.app/api?username=yassnemo&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=yerradouani&theme=gruvbox&border_radius=4.5) -->
 
