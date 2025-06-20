@@ -104,6 +104,7 @@ Check out my latest thoughts and technical insights: **[Articles](https://yerrad
 
 ![Yassine's GitHub stats](https://github-readme-stats.vercel.app/api?username=yassnemo&show_icons=true&theme=gruvbox)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yassnemo&langs_count=8)
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=yerradouani&theme=gruvbox&border_radius=4.5) -->
 
 
