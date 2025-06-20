@@ -1,6 +1,6 @@
 # ♚ Yassine Erradouani
 
-**`Data Science Student (Data Engineer/Developer/Writer/Thinker)`**
+**`Data Science Student (BI Analyst/Developer/Writer)`**
 
 I'm a data science student at Faculty of Applied Science Ibn Zohr, passionate about solving real-world problems through data engineering, machine learning, and thoughtful writing. My projects range from building personalized recommendation systems to exploring the depths of human intelligence and creativity.
 
