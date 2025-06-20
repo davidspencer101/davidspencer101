@@ -100,49 +100,6 @@ Check out my latest thoughts and technical insights: **[Articles](https://yerrad
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Read%20More%20Articles-red?style=for-the-badge&logo=book&logoColor=white"/>](https://yerradouani.me/articles)
 
-#<p id="github-stats"><p>
-
-<a href=#github-stats>![Github Stats](https://res.cloudinary.com/dn1e07eul/image/upload/v1659313867/Readme%20Headers/inter-github-stats_nojtt8.png)</a> <p id="technologies">
-
-<!-- The public vercel deployment from the original repo: -->
-
-<img height="150px"  src="https://github-readme-stats.vercel.app/api?username=emjose&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=24&text_color=ffffff&icon_color=ffffff&bg_color=0,fd1d1d,e1306c,c13584,833ab4&title_color=ffffff"/> <img height="150px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=emjose&hide=html&hide_border=true&card_width=372&layout=compact&langs_count=4&text_color=ffffff&icon_color=ffffff&bg_color=0,833ab4,5851db,405de6&title_color=ffffff"/>
-
-<!-- card width: 320, 372 -->
-<!--
-- Most used languages card started appearing blank on Wednesday, August 24, 2022.
-- Github Stats card repo was forked, personal access token generated, and Vercel instance deployed.
-- Most used languages card is still blank.
-- Personal Vercel deployment below:
--->
-
-<!-- GitHub Stats and Most Used Languages -->
-
-<!-- <img height="150px"  src="https://github-readme-stats-flame-phi.vercel.app/api?username=emjose&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=24&text_color=ffffff&icon_color=ffffff&bg_color=0,fd1d1d,e1306c,c13584,833ab4&title_color=ffffff"/> <img height="150px"  src="https://github-readme-stats-flame-phi.vercel.app/api/top-langs/?username=emjose&hide=html&hide_border=true&card_width=320&layout=compact&langs_count=4&text_color=ffffff&icon_color=ffffff&bg_color=0,833ab4,5851db,405de6&title_color=ffffff"/> -->
-
-<!-- GitHub Stats and GitHub Streak -->
-<!-- <img height="150px" src="https://github-readme-stats-flame-phi.vercel.app/api?username=emjose&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=24&text_color=ffffff&icon_color=ffffff&bg_color=0,fd1d1d,e1306c,c13584,833ab4&title_color=ffffff"/> <img height="150px" src="http://github-readme-streak-stats.herokuapp.com/?user=emjose&theme=dark&hide_border=true&background=8437C3&stroke=FFFFFF&dates=F0F0F0"/> -->
-
-<!--
-
-*** GITHUB STATS SECTION ***
-
-• Generating your custom Github stats: https://github.com/anuraghazra/github-readme-stats
-
-• Blog Resource: https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7
-
-• Height and width values for the stats cards should be even, not odd. Oddly, odd values did not work for me.
-
-PARSED GITHUB STATS CARDS
-
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=emjose&hide_border=true&show_icons=true&include_all_commits=false&count_private=true&line_height=24&text_color=ffffff&icon_color=ffffff&bg_color=0,fd1d1d,e1306c,c13584,833ab4&title_color=ffffff"/>
-
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emjose&hide=html&hide_border=true&card_width=320&layout=compact&langs_count=7&text_color=ffffff&icon_color=ffffff&bg_color=0,833ab4,5851db,405de6&title_color=ffffff" />
-
--->
-
-
-
 ### 📊 Stats
 
 ![Yassine's GitHub stats](https://github-readme-stats.vercel.app/api?username=yassnemo&show_icons=true&theme=gruvbox)
