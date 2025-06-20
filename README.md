@@ -88,14 +88,6 @@ Check out my latest thoughts and technical insights: **[Articles](https://yerrad
 
 *Inspired by Netflix's "Because you watched..." feature, I built YMovies—a personalized movie recommendation web app. From machine learning algorithms to full-stack development, here's how I transformed a couch-surfing idea into a working recommendation system.*
 
-[![Muse and Me, A Writer Before A Thinker](https://img.shields.io/badge/Muse%20and%20Me-A%20Writer%20Before%20A%20Thinker-purple?style=for-the-badge&logo=medium&logoColor=white)](https://yerradouani.me/articles/muse-and-me)
-
-*In this first blog post on my portfolio, I dive into the spark that ignited my love for writing, the quirks of my creative process, and why I'm obsessed with exploring the human mind through words.*
-
-[![What Does It Mean to Be Intelligent?](https://img.shields.io/badge/Intelligence-What%20Does%20It%20Mean%20to%20Be%20Intelligent-green?style=for-the-badge&logo=brain&logoColor=white)](https://yerradouani.me/articles/intelligence-stupidity-the-laws-of-nature)
-
-*From survival skills in ancient times to modern debates about IQ and creativity, the idea of intelligence has evolved dramatically. Join me as we rethink what intelligence means today.*
-
 [![Problems, Smarts and The Way It Goes](https://img.shields.io/badge/ML%20Insights-Problems%2C%20Smarts%20and%20The%20Way%20It%20Goes-orange?style=for-the-badge&logo=tensorflow&logoColor=white)](https://yerradouani.me/articles/problems-smarts-and-the-way-it-goes)
 
 *Simple ML models like scikit-learn and XGBoost can outperform deep learning for tabular data, delivering fast, clear, and practical results—dive in to see why less is often more!*
