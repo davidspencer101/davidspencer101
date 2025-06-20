@@ -6,7 +6,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
    <p align="left">
                <a href="https://davidspencer.com">
-         <img alt="portfolio" title="Portfolio" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"/></a>
+         <img alt="portfolio" title="Portfolio" src="https://user-images.githubusercontent.com/61435324/239661841-f1ab8555-d38a-4fc9-8d22-678c2ec84a2b.gif"/></a>
             <a href="https://github.com/davidspencer101?tab=repositories">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"/></a>
       <a href="https://github.com/davidspencer?tab=followers">
